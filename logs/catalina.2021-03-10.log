@@ -1,0 +1,116 @@
+03 10, 2021 16:26:59 下午 tomcat.Bootstrap logJVM
+INFO : Server version:		Tomcat/1.0.1
+03 10, 2021 16:26:59 下午 tomcat.Bootstrap logJVM
+INFO : Server built:		2021-03-08 10:20:22
+03 10, 2021 16:26:59 下午 tomcat.Bootstrap logJVM
+INFO : Server number:		1.0.1
+03 10, 2021 16:26:59 下午 tomcat.Bootstrap logJVM
+INFO : OS Name	:		Windows 10
+03 10, 2021 16:26:59 下午 tomcat.Bootstrap logJVM
+INFO : OS Version:		10.0
+03 10, 2021 16:26:59 下午 tomcat.Bootstrap logJVM
+INFO : Architecture:		amd64
+03 10, 2021 16:26:59 下午 tomcat.Bootstrap logJVM
+INFO : Java Home:		D:\Java\jre
+03 10, 2021 16:26:59 下午 tomcat.Bootstrap logJVM
+INFO : JVM Version:		1.8.0_261-b12
+03 10, 2021 16:26:59 下午 tomcat.Bootstrap logJVM
+INFO : JVM Vendor:		Oracle Corporation
+03 10, 2021 16:27:26 下午 tomcat.Bootstrap logJVM
+INFO : Server version:		Tomcat/1.0.1
+03 10, 2021 16:27:26 下午 tomcat.Bootstrap logJVM
+INFO : Server built:		2021-03-08 10:20:22
+03 10, 2021 16:27:26 下午 tomcat.Bootstrap logJVM
+INFO : Server number:		1.0.1
+03 10, 2021 16:27:26 下午 tomcat.Bootstrap logJVM
+INFO : OS Name	:		Windows 10
+03 10, 2021 16:27:26 下午 tomcat.Bootstrap logJVM
+INFO : OS Version:		10.0
+03 10, 2021 16:27:26 下午 tomcat.Bootstrap logJVM
+INFO : Architecture:		amd64
+03 10, 2021 16:27:26 下午 tomcat.Bootstrap logJVM
+INFO : Java Home:		D:\Java\jre
+03 10, 2021 16:27:26 下午 tomcat.Bootstrap logJVM
+INFO : JVM Version:		1.8.0_261-b12
+03 10, 2021 16:27:26 下午 tomcat.Bootstrap logJVM
+INFO : JVM Vendor:		Oracle Corporation
+03 10, 2021 16:27:26 下午 tomcat.Bootstrap error
+ERROR: Address already in use: JVM_Bind
+java.net.BindException: Address already in use: JVM_Bind
+	at java.net.DualStackPlainSocketImpl.bind0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketBind(DualStackPlainSocketImpl.java:102)
+	at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:513)
+	at java.net.PlainSocketImpl.bind(PlainSocketImpl.java:180)
+	at java.net.ServerSocket.bind(ServerSocket.java:375)
+	at java.net.ServerSocket.<init>(ServerSocket.java:237)
+	at java.net.ServerSocket.<init>(ServerSocket.java:128)
+	at tomcat.Bootstrap.main(Bootstrap.java:43)
+	at tomcat.test.TestTomcat.lambda$beforeClass$0(TestTomcat.java:27)
+	at java.lang.Thread.run(Thread.java:748)
+03 10, 2021 16:30:14 下午 tomcat.Bootstrap logJVM
+INFO : Server version:		Tomcat/1.0.1
+03 10, 2021 16:30:14 下午 tomcat.Bootstrap logJVM
+INFO : Server built:		2021-03-08 10:20:22
+03 10, 2021 16:30:14 下午 tomcat.Bootstrap logJVM
+INFO : Server number:		1.0.1
+03 10, 2021 16:30:14 下午 tomcat.Bootstrap logJVM
+INFO : OS Name	:		Windows 10
+03 10, 2021 16:30:14 下午 tomcat.Bootstrap logJVM
+INFO : OS Version:		10.0
+03 10, 2021 16:30:14 下午 tomcat.Bootstrap logJVM
+INFO : Architecture:		amd64
+03 10, 2021 16:30:14 下午 tomcat.Bootstrap logJVM
+INFO : Java Home:		D:\Java\jre
+03 10, 2021 16:30:14 下午 tomcat.Bootstrap logJVM
+INFO : JVM Version:		1.8.0_261-b12
+03 10, 2021 16:30:14 下午 tomcat.Bootstrap logJVM
+INFO : JVM Vendor:		Oracle Corporation
+03 10, 2021 16:30:14 下午 tomcat.Bootstrap error
+ERROR: Address already in use: JVM_Bind
+java.net.BindException: Address already in use: JVM_Bind
+	at java.net.DualStackPlainSocketImpl.bind0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketBind(DualStackPlainSocketImpl.java:102)
+	at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:513)
+	at java.net.PlainSocketImpl.bind(PlainSocketImpl.java:180)
+	at java.net.ServerSocket.bind(ServerSocket.java:375)
+	at java.net.ServerSocket.<init>(ServerSocket.java:237)
+	at java.net.ServerSocket.<init>(ServerSocket.java:128)
+	at tomcat.Bootstrap.main(Bootstrap.java:43)
+	at tomcat.test.TestTomcat.lambda$beforeClass$0(TestTomcat.java:27)
+	at java.lang.Thread.run(Thread.java:748)
+03 10, 2021 19:30:58 下午 tomcat.Bootstrap logJVM
+INFO : Server version:		Tomcat/1.0.1
+03 10, 2021 19:30:58 下午 tomcat.Bootstrap logJVM
+INFO : Server built:		2021-03-08 10:20:22
+03 10, 2021 19:30:58 下午 tomcat.Bootstrap logJVM
+INFO : Server number:		1.0.1
+03 10, 2021 19:30:58 下午 tomcat.Bootstrap logJVM
+INFO : OS Name	:		Windows 10
+03 10, 2021 19:30:58 下午 tomcat.Bootstrap logJVM
+INFO : OS Version:		10.0
+03 10, 2021 19:30:58 下午 tomcat.Bootstrap logJVM
+INFO : Architecture:		amd64
+03 10, 2021 19:30:58 下午 tomcat.Bootstrap logJVM
+INFO : Java Home:		D:\Java\jre
+03 10, 2021 19:30:58 下午 tomcat.Bootstrap logJVM
+INFO : JVM Version:		1.8.0_261-b12
+03 10, 2021 19:30:58 下午 tomcat.Bootstrap logJVM
+INFO : JVM Vendor:		Oracle Corporation
+03 10, 2021 20:04:44 下午 tomcat.Bootstrap logJVM
+INFO : Server version:		Tomcat/1.0.1
+03 10, 2021 20:04:44 下午 tomcat.Bootstrap logJVM
+INFO : Server built:		2021-03-08 10:20:22
+03 10, 2021 20:04:44 下午 tomcat.Bootstrap logJVM
+INFO : Server number:		1.0.1
+03 10, 2021 20:04:44 下午 tomcat.Bootstrap logJVM
+INFO : OS Name	:		Windows 10
+03 10, 2021 20:04:44 下午 tomcat.Bootstrap logJVM
+INFO : OS Version:		10.0
+03 10, 2021 20:04:44 下午 tomcat.Bootstrap logJVM
+INFO : Architecture:		amd64
+03 10, 2021 20:04:44 下午 tomcat.Bootstrap logJVM
+INFO : Java Home:		D:\Java\jre
+03 10, 2021 20:04:44 下午 tomcat.Bootstrap logJVM
+INFO : JVM Version:		1.8.0_261-b12
+03 10, 2021 20:04:45 下午 tomcat.Bootstrap logJVM
+INFO : JVM Vendor:		Oracle Corporation

@@ -1,0 +1,12 @@
+del /q bootstrap.jar
+jar cvf0 bootstrap.jar -C out/production/tomcat tomcat/Bootstrap.class -C out/production/tomcat tomcat/classloader/CommonClassLoader.class
+del /q lib/tomcat.jar
+cd out
+cd production
+cd tomcat
+jar cvf0 ../../../lib/tomcat.jar *
+cd ..
+cd ..
+cd ..
+java -cp bootstrap.jar cn.how2j.tomcat.Bootstrap
+pause

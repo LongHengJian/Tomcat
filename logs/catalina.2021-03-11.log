@@ -1,0 +1,633 @@
+03 11, 2021 02:58:46 上午 tomcat.Bootstrap logJVM
+INFO : Server version:		Tomcat/1.0.1
+03 11, 2021 02:58:46 上午 tomcat.Bootstrap logJVM
+INFO : Server built:		2021-03-08 10:20:22
+03 11, 2021 02:58:46 上午 tomcat.Bootstrap logJVM
+INFO : Server number:		1.0.1
+03 11, 2021 02:58:46 上午 tomcat.Bootstrap logJVM
+INFO : OS Name	:		Windows 10
+03 11, 2021 02:58:46 上午 tomcat.Bootstrap logJVM
+INFO : OS Version:		10.0
+03 11, 2021 02:58:46 上午 tomcat.Bootstrap logJVM
+INFO : Architecture:		amd64
+03 11, 2021 02:58:46 上午 tomcat.Bootstrap logJVM
+INFO : Java Home:		D:\Java\jre
+03 11, 2021 02:58:46 上午 tomcat.Bootstrap logJVM
+INFO : JVM Version:		1.8.0_261-b12
+03 11, 2021 02:58:46 上午 tomcat.Bootstrap logJVM
+INFO : JVM Vendor:		Oracle Corporation
+03 11, 2021 03:03:07 上午 tomcat.Bootstrap logJVM
+INFO : Server version:		Tomcat/1.0.1
+03 11, 2021 03:03:07 上午 tomcat.Bootstrap logJVM
+INFO : Server built:		2021-03-08 10:20:22
+03 11, 2021 03:03:07 上午 tomcat.Bootstrap logJVM
+INFO : Server number:		1.0.1
+03 11, 2021 03:03:07 上午 tomcat.Bootstrap logJVM
+INFO : OS Name	:		Windows 10
+03 11, 2021 03:03:07 上午 tomcat.Bootstrap logJVM
+INFO : OS Version:		10.0
+03 11, 2021 03:03:07 上午 tomcat.Bootstrap logJVM
+INFO : Architecture:		amd64
+03 11, 2021 03:03:07 上午 tomcat.Bootstrap logJVM
+INFO : Java Home:		D:\Java\jre
+03 11, 2021 03:03:07 上午 tomcat.Bootstrap logJVM
+INFO : JVM Version:		1.8.0_261-b12
+03 11, 2021 03:03:07 上午 tomcat.Bootstrap logJVM
+INFO : JVM Vendor:		Oracle Corporation
+03 11, 2021 03:03:07 上午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\a
+03 11, 2021 03:03:07 上午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\a has finished in 1 ms
+03 11, 2021 03:03:07 上午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\ROOT
+03 11, 2021 03:03:07 上午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\ROOT has finished in 1 ms
+03 11, 2021 03:03:28 上午 tomcat.Bootstrap logJVM
+INFO : Server version:		Tomcat/1.0.1
+03 11, 2021 03:03:28 上午 tomcat.Bootstrap logJVM
+INFO : Server built:		2021-03-08 10:20:22
+03 11, 2021 03:03:28 上午 tomcat.Bootstrap logJVM
+INFO : Server number:		1.0.1
+03 11, 2021 03:03:28 上午 tomcat.Bootstrap logJVM
+INFO : OS Name	:		Windows 10
+03 11, 2021 03:03:28 上午 tomcat.Bootstrap logJVM
+INFO : OS Version:		10.0
+03 11, 2021 03:03:28 上午 tomcat.Bootstrap logJVM
+INFO : Architecture:		amd64
+03 11, 2021 03:03:28 上午 tomcat.Bootstrap logJVM
+INFO : Java Home:		D:\Java\jre
+03 11, 2021 03:03:28 上午 tomcat.Bootstrap logJVM
+INFO : JVM Version:		1.8.0_261-b12
+03 11, 2021 03:03:28 上午 tomcat.Bootstrap logJVM
+INFO : JVM Vendor:		Oracle Corporation
+03 11, 2021 03:03:28 上午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\a
+03 11, 2021 03:03:28 上午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\a has finished in 0 ms
+03 11, 2021 03:03:28 上午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\ROOT
+03 11, 2021 03:03:28 上午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\ROOT has finished in 1 ms
+03 11, 2021 03:20:02 上午 tomcat.Bootstrap logJVM
+INFO : Server version:		Tomcat/1.0.1
+03 11, 2021 03:20:02 上午 tomcat.Bootstrap logJVM
+INFO : Server built:		2021-03-08 10:20:22
+03 11, 2021 03:20:02 上午 tomcat.Bootstrap logJVM
+INFO : Server number:		1.0.1
+03 11, 2021 03:20:02 上午 tomcat.Bootstrap logJVM
+INFO : OS Name	:		Windows 10
+03 11, 2021 03:20:02 上午 tomcat.Bootstrap logJVM
+INFO : OS Version:		10.0
+03 11, 2021 03:20:02 上午 tomcat.Bootstrap logJVM
+INFO : Architecture:		amd64
+03 11, 2021 03:20:02 上午 tomcat.Bootstrap logJVM
+INFO : Java Home:		D:\Java\jre
+03 11, 2021 03:20:02 上午 tomcat.Bootstrap logJVM
+INFO : JVM Version:		1.8.0_261-b12
+03 11, 2021 03:20:02 上午 tomcat.Bootstrap logJVM
+INFO : JVM Vendor:		Oracle Corporation
+03 11, 2021 03:20:02 上午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\a
+03 11, 2021 03:20:02 上午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\a has finished in 1 ms
+03 11, 2021 03:20:02 上午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\ROOT
+03 11, 2021 03:20:02 上午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\ROOT has finished in 1 ms
+03 11, 2021 03:20:38 上午 tomcat.Bootstrap logJVM
+INFO : Server version:		Tomcat/1.0.1
+03 11, 2021 03:20:38 上午 tomcat.Bootstrap logJVM
+INFO : Server built:		2021-03-08 10:20:22
+03 11, 2021 03:20:38 上午 tomcat.Bootstrap logJVM
+INFO : Server number:		1.0.1
+03 11, 2021 03:20:38 上午 tomcat.Bootstrap logJVM
+INFO : OS Name	:		Windows 10
+03 11, 2021 03:20:38 上午 tomcat.Bootstrap logJVM
+INFO : OS Version:		10.0
+03 11, 2021 03:20:38 上午 tomcat.Bootstrap logJVM
+INFO : Architecture:		amd64
+03 11, 2021 03:20:38 上午 tomcat.Bootstrap logJVM
+INFO : Java Home:		D:\Java\jre
+03 11, 2021 03:20:38 上午 tomcat.Bootstrap logJVM
+INFO : JVM Version:		1.8.0_261-b12
+03 11, 2021 03:20:38 上午 tomcat.Bootstrap logJVM
+INFO : JVM Vendor:		Oracle Corporation
+03 11, 2021 03:20:38 上午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\a
+03 11, 2021 03:20:38 上午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\a has finished in 0 ms
+03 11, 2021 03:20:38 上午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\ROOT
+03 11, 2021 03:20:38 上午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\ROOT has finished in 0 ms
+03 11, 2021 03:23:34 上午 tomcat.Bootstrap logJVM
+INFO : Server version:		Tomcat/1.0.1
+03 11, 2021 03:23:34 上午 tomcat.Bootstrap logJVM
+INFO : Server built:		2021-03-08 10:20:22
+03 11, 2021 03:23:34 上午 tomcat.Bootstrap logJVM
+INFO : Server number:		1.0.1
+03 11, 2021 03:23:34 上午 tomcat.Bootstrap logJVM
+INFO : OS Name	:		Windows 10
+03 11, 2021 03:23:34 上午 tomcat.Bootstrap logJVM
+INFO : OS Version:		10.0
+03 11, 2021 03:23:34 上午 tomcat.Bootstrap logJVM
+INFO : Architecture:		amd64
+03 11, 2021 03:23:34 上午 tomcat.Bootstrap logJVM
+INFO : Java Home:		D:\Java\jre
+03 11, 2021 03:23:34 上午 tomcat.Bootstrap logJVM
+INFO : JVM Version:		1.8.0_261-b12
+03 11, 2021 03:23:34 上午 tomcat.Bootstrap logJVM
+INFO : JVM Vendor:		Oracle Corporation
+03 11, 2021 03:23:34 上午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\a
+03 11, 2021 03:23:34 上午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\a has finished in 1 ms
+03 11, 2021 03:23:34 上午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\ROOT
+03 11, 2021 03:23:34 上午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\ROOT has finished in 2 ms
+03 11, 2021 03:23:37 上午 tomcat.Bootstrap logJVM
+INFO : Server version:		Tomcat/1.0.1
+03 11, 2021 03:23:37 上午 tomcat.Bootstrap logJVM
+INFO : Server built:		2021-03-08 10:20:22
+03 11, 2021 03:23:37 上午 tomcat.Bootstrap logJVM
+INFO : Server number:		1.0.1
+03 11, 2021 03:23:37 上午 tomcat.Bootstrap logJVM
+INFO : OS Name	:		Windows 10
+03 11, 2021 03:23:37 上午 tomcat.Bootstrap logJVM
+INFO : OS Version:		10.0
+03 11, 2021 03:23:37 上午 tomcat.Bootstrap logJVM
+INFO : Architecture:		amd64
+03 11, 2021 03:23:37 上午 tomcat.Bootstrap logJVM
+INFO : Java Home:		D:\Java\jre
+03 11, 2021 03:23:37 上午 tomcat.Bootstrap logJVM
+INFO : JVM Version:		1.8.0_261-b12
+03 11, 2021 03:23:37 上午 tomcat.Bootstrap logJVM
+INFO : JVM Vendor:		Oracle Corporation
+03 11, 2021 03:23:37 上午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\a
+03 11, 2021 03:23:37 上午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\a has finished in 1 ms
+03 11, 2021 03:23:37 上午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\ROOT
+03 11, 2021 03:23:37 上午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\ROOT has finished in 1 ms
+03 11, 2021 03:23:49 上午 tomcat.Bootstrap logJVM
+INFO : Server version:		Tomcat/1.0.1
+03 11, 2021 03:23:49 上午 tomcat.Bootstrap logJVM
+INFO : Server built:		2021-03-08 10:20:22
+03 11, 2021 03:23:49 上午 tomcat.Bootstrap logJVM
+INFO : Server number:		1.0.1
+03 11, 2021 03:23:49 上午 tomcat.Bootstrap logJVM
+INFO : OS Name	:		Windows 10
+03 11, 2021 03:23:49 上午 tomcat.Bootstrap logJVM
+INFO : OS Version:		10.0
+03 11, 2021 03:23:49 上午 tomcat.Bootstrap logJVM
+INFO : Architecture:		amd64
+03 11, 2021 03:23:49 上午 tomcat.Bootstrap logJVM
+INFO : Java Home:		D:\Java\jre
+03 11, 2021 03:23:49 上午 tomcat.Bootstrap logJVM
+INFO : JVM Version:		1.8.0_261-b12
+03 11, 2021 03:23:49 上午 tomcat.Bootstrap logJVM
+INFO : JVM Vendor:		Oracle Corporation
+03 11, 2021 03:23:49 上午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\a
+03 11, 2021 03:23:49 上午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\a has finished in 1 ms
+03 11, 2021 03:23:49 上午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\ROOT
+03 11, 2021 03:23:49 上午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\ROOT has finished in 0 ms
+03 11, 2021 11:23:50 上午 tomcat.Bootstrap logJVM
+INFO : Server version:		Tomcat/1.0.1
+03 11, 2021 11:23:50 上午 tomcat.Bootstrap logJVM
+INFO : Server built:		2021-03-08 10:20:22
+03 11, 2021 11:23:50 上午 tomcat.Bootstrap logJVM
+INFO : Server number:		1.0.1
+03 11, 2021 11:23:50 上午 tomcat.Bootstrap logJVM
+INFO : OS Name	:		Windows 10
+03 11, 2021 11:23:50 上午 tomcat.Bootstrap logJVM
+INFO : OS Version:		10.0
+03 11, 2021 11:23:50 上午 tomcat.Bootstrap logJVM
+INFO : Architecture:		amd64
+03 11, 2021 11:23:50 上午 tomcat.Bootstrap logJVM
+INFO : Java Home:		D:\Java\jre
+03 11, 2021 11:23:50 上午 tomcat.Bootstrap logJVM
+INFO : JVM Version:		1.8.0_261-b12
+03 11, 2021 11:23:50 上午 tomcat.Bootstrap logJVM
+INFO : JVM Vendor:		Oracle Corporation
+03 11, 2021 11:23:50 上午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\a
+03 11, 2021 11:23:50 上午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\a has finished in 1 ms
+03 11, 2021 11:23:50 上午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\ROOT
+03 11, 2021 11:23:50 上午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\ROOT has finished in 0 ms
+03 11, 2021 11:26:42 上午 tomcat.Bootstrap logJVM
+INFO : Server version:		Tomcat/1.0.1
+03 11, 2021 11:26:42 上午 tomcat.Bootstrap logJVM
+INFO : Server built:		2021-03-08 10:20:22
+03 11, 2021 11:26:42 上午 tomcat.Bootstrap logJVM
+INFO : Server number:		1.0.1
+03 11, 2021 11:26:42 上午 tomcat.Bootstrap logJVM
+INFO : OS Name	:		Windows 10
+03 11, 2021 11:26:42 上午 tomcat.Bootstrap logJVM
+INFO : OS Version:		10.0
+03 11, 2021 11:26:42 上午 tomcat.Bootstrap logJVM
+INFO : Architecture:		amd64
+03 11, 2021 11:26:42 上午 tomcat.Bootstrap logJVM
+INFO : Java Home:		D:\Java\jre
+03 11, 2021 11:26:42 上午 tomcat.Bootstrap logJVM
+INFO : JVM Version:		1.8.0_261-b12
+03 11, 2021 11:26:42 上午 tomcat.Bootstrap logJVM
+INFO : JVM Vendor:		Oracle Corporation
+03 11, 2021 11:26:42 上午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\a
+03 11, 2021 11:26:42 上午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\a has finished in 1 ms
+03 11, 2021 11:26:42 上午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\ROOT
+03 11, 2021 11:26:42 上午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\ROOT has finished in 0 ms
+03 11, 2021 11:26:42 上午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:/IDEA/Tomcat/b
+03 11, 2021 11:26:42 上午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:/IDEA/Tomcat/b has finished in 1 ms
+03 11, 2021 13:30:53 下午 tomcat.Bootstrap logJVM
+INFO : Server version:		Tomcat/1.0.1
+03 11, 2021 13:30:53 下午 tomcat.Bootstrap logJVM
+INFO : Server built:		2021-03-08 10:20:22
+03 11, 2021 13:30:53 下午 tomcat.Bootstrap logJVM
+INFO : Server number:		1.0.1
+03 11, 2021 13:30:53 下午 tomcat.Bootstrap logJVM
+INFO : OS Name	:		Windows 10
+03 11, 2021 13:30:53 下午 tomcat.Bootstrap logJVM
+INFO : OS Version:		10.0
+03 11, 2021 13:30:53 下午 tomcat.Bootstrap logJVM
+INFO : Architecture:		amd64
+03 11, 2021 13:30:53 下午 tomcat.Bootstrap logJVM
+INFO : Java Home:		D:\Java\jre
+03 11, 2021 13:30:53 下午 tomcat.Bootstrap logJVM
+INFO : JVM Version:		1.8.0_261-b12
+03 11, 2021 13:30:53 下午 tomcat.Bootstrap logJVM
+INFO : JVM Vendor:		Oracle Corporation
+03 11, 2021 13:30:53 下午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:/IDEA/Tomcat/b
+03 11, 2021 13:30:53 下午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:/IDEA/Tomcat/b has finished in 1 ms
+03 11, 2021 14:49:51 下午 tomcat.Bootstrap logJVM
+INFO : Server version:		Tomcat/1.0.1
+03 11, 2021 14:49:51 下午 tomcat.Bootstrap logJVM
+INFO : Server built:		2021-03-08 10:20:22
+03 11, 2021 14:49:51 下午 tomcat.Bootstrap logJVM
+INFO : Server number:		1.0.1
+03 11, 2021 14:49:51 下午 tomcat.Bootstrap logJVM
+INFO : OS Name	:		Windows 10
+03 11, 2021 14:49:51 下午 tomcat.Bootstrap logJVM
+INFO : OS Version:		10.0
+03 11, 2021 14:49:51 下午 tomcat.Bootstrap logJVM
+INFO : Architecture:		amd64
+03 11, 2021 14:49:51 下午 tomcat.Bootstrap logJVM
+INFO : Java Home:		D:\Java\jre
+03 11, 2021 14:49:51 下午 tomcat.Bootstrap logJVM
+INFO : JVM Version:		1.8.0_261-b12
+03 11, 2021 14:49:51 下午 tomcat.Bootstrap logJVM
+INFO : JVM Vendor:		Oracle Corporation
+03 11, 2021 14:51:01 下午 tomcat.Bootstrap logJVM
+INFO : Server version:		Tomcat/1.0.1
+03 11, 2021 14:51:02 下午 tomcat.Bootstrap logJVM
+INFO : Server built:		2021-03-08 10:20:22
+03 11, 2021 14:51:02 下午 tomcat.Bootstrap logJVM
+INFO : Server number:		1.0.1
+03 11, 2021 14:51:02 下午 tomcat.Bootstrap logJVM
+INFO : OS Name	:		Windows 10
+03 11, 2021 14:51:02 下午 tomcat.Bootstrap logJVM
+INFO : OS Version:		10.0
+03 11, 2021 14:51:02 下午 tomcat.Bootstrap logJVM
+INFO : Architecture:		amd64
+03 11, 2021 14:51:02 下午 tomcat.Bootstrap logJVM
+INFO : Java Home:		D:\Java\jre
+03 11, 2021 14:51:02 下午 tomcat.Bootstrap logJVM
+INFO : JVM Version:		1.8.0_261-b12
+03 11, 2021 14:51:02 下午 tomcat.Bootstrap logJVM
+INFO : JVM Vendor:		Oracle Corporation
+03 11, 2021 14:52:32 下午 tomcat.Bootstrap logJVM
+INFO : Server version:		Tomcat/1.0.1
+03 11, 2021 14:52:32 下午 tomcat.Bootstrap logJVM
+INFO : Server built:		2021-03-08 10:20:22
+03 11, 2021 14:52:32 下午 tomcat.Bootstrap logJVM
+INFO : Server number:		1.0.1
+03 11, 2021 14:52:32 下午 tomcat.Bootstrap logJVM
+INFO : OS Name	:		Windows 10
+03 11, 2021 14:52:32 下午 tomcat.Bootstrap logJVM
+INFO : OS Version:		10.0
+03 11, 2021 14:52:32 下午 tomcat.Bootstrap logJVM
+INFO : Architecture:		amd64
+03 11, 2021 14:52:32 下午 tomcat.Bootstrap logJVM
+INFO : Java Home:		D:\Java\jre
+03 11, 2021 14:52:32 下午 tomcat.Bootstrap logJVM
+INFO : JVM Version:		1.8.0_261-b12
+03 11, 2021 14:52:32 下午 tomcat.Bootstrap logJVM
+INFO : JVM Vendor:		Oracle Corporation
+03 11, 2021 14:53:04 下午 tomcat.Bootstrap logJVM
+INFO : Server version:		Tomcat/1.0.1
+03 11, 2021 14:53:04 下午 tomcat.Bootstrap logJVM
+INFO : Server built:		2021-03-08 10:20:22
+03 11, 2021 14:53:04 下午 tomcat.Bootstrap logJVM
+INFO : Server number:		1.0.1
+03 11, 2021 14:53:04 下午 tomcat.Bootstrap logJVM
+INFO : OS Name	:		Windows 10
+03 11, 2021 14:53:04 下午 tomcat.Bootstrap logJVM
+INFO : OS Version:		10.0
+03 11, 2021 14:53:04 下午 tomcat.Bootstrap logJVM
+INFO : Architecture:		amd64
+03 11, 2021 14:53:04 下午 tomcat.Bootstrap logJVM
+INFO : Java Home:		D:\Java\jre
+03 11, 2021 14:53:04 下午 tomcat.Bootstrap logJVM
+INFO : JVM Version:		1.8.0_261-b12
+03 11, 2021 14:53:04 下午 tomcat.Bootstrap logJVM
+INFO : JVM Vendor:		Oracle Corporation
+03 11, 2021 14:56:54 下午 tomcat.Bootstrap logJVM
+INFO : Server version:		Tomcat/1.0.1
+03 11, 2021 14:56:54 下午 tomcat.Bootstrap logJVM
+INFO : Server built:		2021-03-08 10:20:22
+03 11, 2021 14:56:54 下午 tomcat.Bootstrap logJVM
+INFO : Server number:		1.0.1
+03 11, 2021 14:56:54 下午 tomcat.Bootstrap logJVM
+INFO : OS Name	:		Windows 10
+03 11, 2021 14:56:54 下午 tomcat.Bootstrap logJVM
+INFO : OS Version:		10.0
+03 11, 2021 14:56:54 下午 tomcat.Bootstrap logJVM
+INFO : Architecture:		amd64
+03 11, 2021 14:56:54 下午 tomcat.Bootstrap logJVM
+INFO : Java Home:		D:\Java\jre
+03 11, 2021 14:56:54 下午 tomcat.Bootstrap logJVM
+INFO : JVM Version:		1.8.0_261-b12
+03 11, 2021 14:56:54 下午 tomcat.Bootstrap logJVM
+INFO : JVM Vendor:		Oracle Corporation
+03 11, 2021 14:56:54 下午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\a
+03 11, 2021 14:56:54 下午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\a has finished in 1 ms
+03 11, 2021 14:56:54 下午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\ROOT
+03 11, 2021 14:56:54 下午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\ROOT has finished in 1 ms
+03 11, 2021 14:56:54 下午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:/IDEA/Tomcat/b
+03 11, 2021 14:56:54 下午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:/IDEA/Tomcat/b has finished in 1 ms
+03 11, 2021 21:01:46 下午 tomcat.Bootstrap logJVM
+INFO : Server version:		Tomcat/1.0.1
+03 11, 2021 21:01:46 下午 tomcat.Bootstrap logJVM
+INFO : Server built:		2021-03-08 10:20:22
+03 11, 2021 21:01:46 下午 tomcat.Bootstrap logJVM
+INFO : Server number:		1.0.1
+03 11, 2021 21:01:46 下午 tomcat.Bootstrap logJVM
+INFO : OS Name	:		Windows 10
+03 11, 2021 21:01:46 下午 tomcat.Bootstrap logJVM
+INFO : OS Version:		10.0
+03 11, 2021 21:01:46 下午 tomcat.Bootstrap logJVM
+INFO : Architecture:		amd64
+03 11, 2021 21:01:46 下午 tomcat.Bootstrap logJVM
+INFO : Java Home:		D:\Java\jre
+03 11, 2021 21:01:46 下午 tomcat.Bootstrap logJVM
+INFO : JVM Version:		1.8.0_261-b12
+03 11, 2021 21:01:46 下午 tomcat.Bootstrap logJVM
+INFO : JVM Vendor:		Oracle Corporation
+03 11, 2021 21:01:46 下午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\a
+03 11, 2021 21:01:46 下午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\a has finished in 1 ms
+03 11, 2021 21:01:46 下午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\ROOT
+03 11, 2021 21:01:46 下午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\ROOT has finished in 1 ms
+03 11, 2021 21:01:46 下午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:/IDEA/Tomcat/b
+03 11, 2021 21:01:46 下午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:/IDEA/Tomcat/b has finished in 0 ms
+03 11, 2021 21:05:13 下午 tomcat.Bootstrap logJVM
+INFO : Server version:		Tomcat/1.0.1
+03 11, 2021 21:05:13 下午 tomcat.Bootstrap logJVM
+INFO : Server built:		2021-03-08 10:20:22
+03 11, 2021 21:05:13 下午 tomcat.Bootstrap logJVM
+INFO : Server number:		1.0.1
+03 11, 2021 21:05:13 下午 tomcat.Bootstrap logJVM
+INFO : OS Name	:		Windows 10
+03 11, 2021 21:05:13 下午 tomcat.Bootstrap logJVM
+INFO : OS Version:		10.0
+03 11, 2021 21:05:13 下午 tomcat.Bootstrap logJVM
+INFO : Architecture:		amd64
+03 11, 2021 21:05:13 下午 tomcat.Bootstrap logJVM
+INFO : Java Home:		D:\Java\jre
+03 11, 2021 21:05:13 下午 tomcat.Bootstrap logJVM
+INFO : JVM Version:		1.8.0_261-b12
+03 11, 2021 21:05:13 下午 tomcat.Bootstrap logJVM
+INFO : JVM Vendor:		Oracle Corporation
+03 11, 2021 21:05:13 下午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\a
+03 11, 2021 21:05:13 下午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\a has finished in 1 ms
+03 11, 2021 21:05:13 下午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\ROOT
+03 11, 2021 21:05:13 下午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\ROOT has finished in 1 ms
+03 11, 2021 21:05:13 下午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:/IDEA/Tomcat/b
+03 11, 2021 21:05:13 下午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:/IDEA/Tomcat/b has finished in 6 ms
+03 11, 2021 21:05:13 下午 tomcat.Bootstrap error
+ERROR: Address already in use: JVM_Bind
+java.net.BindException: Address already in use: JVM_Bind
+	at java.net.DualStackPlainSocketImpl.bind0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketBind(DualStackPlainSocketImpl.java:102)
+	at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:513)
+	at java.net.PlainSocketImpl.bind(PlainSocketImpl.java:180)
+	at java.net.ServerSocket.bind(ServerSocket.java:375)
+	at java.net.ServerSocket.<init>(ServerSocket.java:237)
+	at java.net.ServerSocket.<init>(ServerSocket.java:128)
+	at tomcat.Bootstrap.main(Bootstrap.java:57)
+	at tomcat.test.TestTomcat.lambda$beforeClass$0(TestTomcat.java:33)
+	at java.lang.Thread.run(Thread.java:748)
+03 11, 2021 21:05:29 下午 tomcat.Bootstrap logJVM
+INFO : Server version:		Tomcat/1.0.1
+03 11, 2021 21:05:29 下午 tomcat.Bootstrap logJVM
+INFO : Server built:		2021-03-08 10:20:22
+03 11, 2021 21:05:29 下午 tomcat.Bootstrap logJVM
+INFO : Server number:		1.0.1
+03 11, 2021 21:05:29 下午 tomcat.Bootstrap logJVM
+INFO : OS Name	:		Windows 10
+03 11, 2021 21:05:29 下午 tomcat.Bootstrap logJVM
+INFO : OS Version:		10.0
+03 11, 2021 21:05:29 下午 tomcat.Bootstrap logJVM
+INFO : Architecture:		amd64
+03 11, 2021 21:05:29 下午 tomcat.Bootstrap logJVM
+INFO : Java Home:		D:\Java\jre
+03 11, 2021 21:05:29 下午 tomcat.Bootstrap logJVM
+INFO : JVM Version:		1.8.0_261-b12
+03 11, 2021 21:05:29 下午 tomcat.Bootstrap logJVM
+INFO : JVM Vendor:		Oracle Corporation
+03 11, 2021 21:05:30 下午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\a
+03 11, 2021 21:05:30 下午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\a has finished in 2 ms
+03 11, 2021 21:05:30 下午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\ROOT
+03 11, 2021 21:05:30 下午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\ROOT has finished in 0 ms
+03 11, 2021 21:05:30 下午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:/IDEA/Tomcat/b
+03 11, 2021 21:05:30 下午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:/IDEA/Tomcat/b has finished in 1 ms
+03 11, 2021 21:08:33 下午 tomcat.Bootstrap logJVM
+INFO : Server version:		Tomcat/1.0.1
+03 11, 2021 21:08:33 下午 tomcat.Bootstrap logJVM
+INFO : Server built:		2021-03-08 10:20:22
+03 11, 2021 21:08:33 下午 tomcat.Bootstrap logJVM
+INFO : Server number:		1.0.1
+03 11, 2021 21:08:33 下午 tomcat.Bootstrap logJVM
+INFO : OS Name	:		Windows 10
+03 11, 2021 21:08:33 下午 tomcat.Bootstrap logJVM
+INFO : OS Version:		10.0
+03 11, 2021 21:08:33 下午 tomcat.Bootstrap logJVM
+INFO : Architecture:		amd64
+03 11, 2021 21:08:33 下午 tomcat.Bootstrap logJVM
+INFO : Java Home:		D:\Java\jre
+03 11, 2021 21:08:33 下午 tomcat.Bootstrap logJVM
+INFO : JVM Version:		1.8.0_261-b12
+03 11, 2021 21:08:33 下午 tomcat.Bootstrap logJVM
+INFO : JVM Vendor:		Oracle Corporation
+03 11, 2021 21:08:33 下午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\a
+03 11, 2021 21:08:33 下午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\a has finished in 1 ms
+03 11, 2021 21:08:33 下午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\ROOT
+03 11, 2021 21:08:33 下午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\ROOT has finished in 0 ms
+03 11, 2021 21:08:33 下午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:/IDEA/Tomcat/b
+03 11, 2021 21:08:33 下午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:/IDEA/Tomcat/b has finished in 0 ms
+03 11, 2021 21:53:00 下午 tomcat.Bootstrap logJVM
+INFO : Server version:		Tomcat/1.0.1
+03 11, 2021 21:53:00 下午 tomcat.Bootstrap logJVM
+INFO : Server built:		2021-03-08 10:20:22
+03 11, 2021 21:53:00 下午 tomcat.Bootstrap logJVM
+INFO : Server number:		1.0.1
+03 11, 2021 21:53:00 下午 tomcat.Bootstrap logJVM
+INFO : OS Name	:		Windows 10
+03 11, 2021 21:53:00 下午 tomcat.Bootstrap logJVM
+INFO : OS Version:		10.0
+03 11, 2021 21:53:00 下午 tomcat.Bootstrap logJVM
+INFO : Architecture:		amd64
+03 11, 2021 21:53:00 下午 tomcat.Bootstrap logJVM
+INFO : Java Home:		D:\Java\jre
+03 11, 2021 21:53:00 下午 tomcat.Bootstrap logJVM
+INFO : JVM Version:		1.8.0_261-b12
+03 11, 2021 21:53:00 下午 tomcat.Bootstrap logJVM
+INFO : JVM Vendor:		Oracle Corporation
+03 11, 2021 21:53:00 下午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\a
+03 11, 2021 21:53:00 下午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\a has finished in 0 ms
+03 11, 2021 21:53:00 下午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\ROOT
+03 11, 2021 21:53:00 下午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\ROOT has finished in 0 ms
+03 11, 2021 21:53:00 下午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:/IDEA/Tomcat/b
+03 11, 2021 21:53:00 下午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:/IDEA/Tomcat/b has finished in 1 ms
+03 11, 2021 21:53:13 下午 tomcat.Bootstrap logJVM
+INFO : Server version:		Tomcat/1.0.1
+03 11, 2021 21:53:13 下午 tomcat.Bootstrap logJVM
+INFO : Server built:		2021-03-08 10:20:22
+03 11, 2021 21:53:13 下午 tomcat.Bootstrap logJVM
+INFO : Server number:		1.0.1
+03 11, 2021 21:53:13 下午 tomcat.Bootstrap logJVM
+INFO : OS Name	:		Windows 10
+03 11, 2021 21:53:13 下午 tomcat.Bootstrap logJVM
+INFO : OS Version:		10.0
+03 11, 2021 21:53:13 下午 tomcat.Bootstrap logJVM
+INFO : Architecture:		amd64
+03 11, 2021 21:53:13 下午 tomcat.Bootstrap logJVM
+INFO : Java Home:		D:\Java\jre
+03 11, 2021 21:53:13 下午 tomcat.Bootstrap logJVM
+INFO : JVM Version:		1.8.0_261-b12
+03 11, 2021 21:53:13 下午 tomcat.Bootstrap logJVM
+INFO : JVM Vendor:		Oracle Corporation
+03 11, 2021 21:53:13 下午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\a
+03 11, 2021 21:53:13 下午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\a has finished in 3 ms
+03 11, 2021 21:53:13 下午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\ROOT
+03 11, 2021 21:53:13 下午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\ROOT has finished in 2 ms
+03 11, 2021 21:53:13 下午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:/IDEA/Tomcat/b
+03 11, 2021 21:53:13 下午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:/IDEA/Tomcat/b has finished in 1 ms
+03 11, 2021 22:22:09 下午 tomcat.Bootstrap logJVM
+INFO : Server version:		Tomcat/1.0.1
+03 11, 2021 22:22:09 下午 tomcat.Bootstrap logJVM
+INFO : Server built:		2021-03-08 10:20:22
+03 11, 2021 22:22:09 下午 tomcat.Bootstrap logJVM
+INFO : Server number:		1.0.1
+03 11, 2021 22:22:09 下午 tomcat.Bootstrap logJVM
+INFO : OS Name	:		Windows 10
+03 11, 2021 22:22:09 下午 tomcat.Bootstrap logJVM
+INFO : OS Version:		10.0
+03 11, 2021 22:22:09 下午 tomcat.Bootstrap logJVM
+INFO : Architecture:		amd64
+03 11, 2021 22:22:09 下午 tomcat.Bootstrap logJVM
+INFO : Java Home:		D:\Java\jre
+03 11, 2021 22:22:09 下午 tomcat.Bootstrap logJVM
+INFO : JVM Version:		1.8.0_261-b12
+03 11, 2021 22:22:09 下午 tomcat.Bootstrap logJVM
+INFO : JVM Vendor:		Oracle Corporation
+03 11, 2021 22:22:09 下午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\a
+03 11, 2021 22:22:09 下午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\a has finished in 0 ms
+03 11, 2021 22:22:09 下午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\ROOT
+03 11, 2021 22:22:09 下午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\ROOT has finished in 1 ms
+03 11, 2021 22:22:09 下午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:/IDEA/Tomcat/b
+03 11, 2021 22:22:09 下午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:/IDEA/Tomcat/b has finished in 0 ms
+03 11, 2021 23:03:53 下午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\a
+03 11, 2021 23:03:53 下午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\a has finished in 150 ms
+03 11, 2021 23:03:53 下午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\ROOT
+03 11, 2021 23:03:53 下午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\ROOT has finished in 0 ms
+03 11, 2021 23:03:53 下午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:/IDEA/Tomcat/b
+03 11, 2021 23:03:53 下午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:/IDEA/Tomcat/b has finished in 1 ms
+03 11, 2021 23:03:53 下午 tomcat.catalina.Server logJVM
+INFO : Server version:		Tomcat/1.0.1
+03 11, 2021 23:03:53 下午 tomcat.catalina.Server logJVM
+INFO : Server built:		2021-03-08 10:20:22
+03 11, 2021 23:03:53 下午 tomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+03 11, 2021 23:03:53 下午 tomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+03 11, 2021 23:03:53 下午 tomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+03 11, 2021 23:03:53 下午 tomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+03 11, 2021 23:03:53 下午 tomcat.catalina.Server logJVM
+INFO : Java Home:		D:\Java\jre
+03 11, 2021 23:03:53 下午 tomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_261-b12
+03 11, 2021 23:03:53 下午 tomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation

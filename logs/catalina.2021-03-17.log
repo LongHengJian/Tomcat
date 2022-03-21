@@ -1,0 +1,456 @@
+03 17, 2021 00:01:43 上午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\a
+03 17, 2021 00:01:43 上午 tomcat.catalina.Context deploy
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\a has finished in 29 ms
+03 17, 2021 00:01:43 上午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\a has finished in 448 ms
+03 17, 2021 00:01:43 上午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\j2ee
+03 17, 2021 00:01:43 上午 tomcat.catalina.Context deploy
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\j2ee has finished in 11 ms
+03 17, 2021 00:01:43 上午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\j2ee has finished in 14 ms
+03 17, 2021 00:01:43 上午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\ROOT
+03 17, 2021 00:01:43 上午 tomcat.catalina.Context deploy
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\ROOT has finished in 1 ms
+03 17, 2021 00:01:43 上午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\ROOT has finished in 2 ms
+03 17, 2021 00:01:43 上午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:/IDEA/Tomcat/b
+03 17, 2021 00:01:43 上午 tomcat.catalina.Context deploy
+INFO : Deployment of web application directory D:/IDEA/Tomcat/b has finished in 0 ms
+03 17, 2021 00:01:43 上午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:/IDEA/Tomcat/b has finished in 2 ms
+03 17, 2021 00:01:43 上午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/IDEA/javaweb/web
+03 17, 2021 00:01:43 上午 tomcat.catalina.Context deploy
+INFO : Deployment of web application directory d:/IDEA/javaweb/web has finished in 81 ms
+03 17, 2021 00:01:43 上午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/IDEA/javaweb/web has finished in 84 ms
+03 17, 2021 00:01:43 上午 tomcat.catalina.Server logJVM
+INFO : Server version:		Tomcat/1.0.1
+03 17, 2021 00:01:43 上午 tomcat.catalina.Server logJVM
+INFO : Server built:		2021-03-08 10:20:22
+03 17, 2021 00:01:43 上午 tomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+03 17, 2021 00:01:43 上午 tomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+03 17, 2021 00:01:43 上午 tomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+03 17, 2021 00:01:43 上午 tomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+03 17, 2021 00:01:43 上午 tomcat.catalina.Server logJVM
+INFO : Java Home:		D:\Java\jre
+03 17, 2021 00:01:43 上午 tomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_261-b12
+03 17, 2021 00:01:43 上午 tomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+03 17, 2021 00:01:43 上午 tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+03 17, 2021 00:01:43 上午 tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+03 17, 2021 00:01:43 上午 tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+03 17, 2021 00:01:43 上午 tomcat.catalina.Service init
+INFO : Initialization processed in 1 ms
+03 17, 2021 00:01:43 上午 tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+03 17, 2021 00:01:43 上午 tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+03 17, 2021 00:01:43 上午 tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+03 17, 2021 00:01:43 上午 tomcat.catalina.Server start
+INFO : Server startup in 12 ms
+03 17, 2021 00:20:55 上午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\a
+03 17, 2021 00:20:55 上午 tomcat.catalina.Context deploy
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\a has finished in 20 ms
+03 17, 2021 00:20:55 上午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\a has finished in 211 ms
+03 17, 2021 00:20:55 上午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\j2ee
+03 17, 2021 00:20:55 上午 tomcat.catalina.Context deploy
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\j2ee has finished in 11 ms
+03 17, 2021 00:20:55 上午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\j2ee has finished in 12 ms
+03 17, 2021 00:20:55 上午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\ROOT
+03 17, 2021 00:20:55 上午 tomcat.catalina.Context deploy
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\ROOT has finished in 0 ms
+03 17, 2021 00:20:55 上午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\ROOT has finished in 3 ms
+03 17, 2021 00:20:55 上午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:/IDEA/Tomcat/b
+03 17, 2021 00:20:55 上午 tomcat.catalina.Context deploy
+INFO : Deployment of web application directory D:/IDEA/Tomcat/b has finished in 0 ms
+03 17, 2021 00:20:55 上午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:/IDEA/Tomcat/b has finished in 6 ms
+03 17, 2021 00:20:55 上午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/IDEA/javaweb/web
+03 17, 2021 00:20:56 上午 tomcat.catalina.Context deploy
+INFO : Deployment of web application directory d:/IDEA/javaweb/web has finished in 100 ms
+03 17, 2021 00:20:56 上午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/IDEA/javaweb/web has finished in 103 ms
+03 17, 2021 00:20:56 上午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\javaweb0
+03 17, 2021 00:20:56 上午 tomcat.catalina.Context deploy
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\javaweb0 has finished in 19 ms
+03 17, 2021 00:20:56 上午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\javaweb0 has finished in 29 ms
+03 17, 2021 00:20:56 上午 tomcat.catalina.Server logJVM
+INFO : Server version:		Tomcat/1.0.1
+03 17, 2021 00:20:56 上午 tomcat.catalina.Server logJVM
+INFO : Server built:		2021-03-08 10:20:22
+03 17, 2021 00:20:56 上午 tomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+03 17, 2021 00:20:56 上午 tomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+03 17, 2021 00:20:56 上午 tomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+03 17, 2021 00:20:56 上午 tomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+03 17, 2021 00:20:56 上午 tomcat.catalina.Server logJVM
+INFO : Java Home:		D:\Java\jre
+03 17, 2021 00:20:56 上午 tomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_261-b12
+03 17, 2021 00:20:56 上午 tomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+03 17, 2021 00:20:56 上午 tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+03 17, 2021 00:20:56 上午 tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+03 17, 2021 00:20:56 上午 tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+03 17, 2021 00:20:56 上午 tomcat.catalina.Service init
+INFO : Initialization processed in 8 ms
+03 17, 2021 00:20:56 上午 tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+03 17, 2021 00:20:56 上午 tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+03 17, 2021 00:20:56 上午 tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+03 17, 2021 00:20:56 上午 tomcat.catalina.Server start
+INFO : Server startup in 17 ms
+03 17, 2021 00:22:54 上午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\a
+03 17, 2021 00:22:54 上午 tomcat.catalina.Context deploy
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\a has finished in 31 ms
+03 17, 2021 00:22:54 上午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\a has finished in 341 ms
+03 17, 2021 00:22:54 上午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\j2ee
+03 17, 2021 00:22:54 上午 tomcat.catalina.Context deploy
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\j2ee has finished in 7 ms
+03 17, 2021 00:22:54 上午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\j2ee has finished in 11 ms
+03 17, 2021 00:22:54 上午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\javaweb0
+03 17, 2021 00:22:54 上午 tomcat.catalina.Context deploy
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\javaweb0 has finished in 85 ms
+03 17, 2021 00:22:54 上午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\javaweb0 has finished in 93 ms
+03 17, 2021 00:22:54 上午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\ROOT
+03 17, 2021 00:22:54 上午 tomcat.catalina.Context deploy
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\ROOT has finished in 1 ms
+03 17, 2021 00:22:54 上午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\ROOT has finished in 4 ms
+03 17, 2021 00:22:54 上午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:/IDEA/Tomcat/b
+03 17, 2021 00:22:54 上午 tomcat.catalina.Context deploy
+INFO : Deployment of web application directory D:/IDEA/Tomcat/b has finished in 0 ms
+03 17, 2021 00:22:54 上午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:/IDEA/Tomcat/b has finished in 9 ms
+03 17, 2021 00:22:54 上午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/IDEA/javaweb/web
+03 17, 2021 00:22:54 上午 tomcat.catalina.Context deploy
+INFO : Deployment of web application directory d:/IDEA/javaweb/web has finished in 48 ms
+03 17, 2021 00:22:54 上午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/IDEA/javaweb/web has finished in 56 ms
+03 17, 2021 00:22:54 上午 tomcat.catalina.Server logJVM
+INFO : Server version:		Tomcat/1.0.1
+03 17, 2021 00:22:54 上午 tomcat.catalina.Server logJVM
+INFO : Server built:		2021-03-08 10:20:22
+03 17, 2021 00:22:54 上午 tomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+03 17, 2021 00:22:54 上午 tomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+03 17, 2021 00:22:54 上午 tomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+03 17, 2021 00:22:54 上午 tomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+03 17, 2021 00:22:54 上午 tomcat.catalina.Server logJVM
+INFO : Java Home:		D:\Java\jre
+03 17, 2021 00:22:54 上午 tomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_261-b12
+03 17, 2021 00:22:54 上午 tomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+03 17, 2021 00:22:54 上午 tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+03 17, 2021 00:22:54 上午 tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+03 17, 2021 00:22:54 上午 tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+03 17, 2021 00:22:54 上午 tomcat.catalina.Service init
+INFO : Initialization processed in 3 ms
+03 17, 2021 00:22:54 上午 tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+03 17, 2021 00:22:54 上午 tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+03 17, 2021 00:22:54 上午 tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+03 17, 2021 00:22:54 上午 tomcat.catalina.Server start
+INFO : Server startup in 23 ms
+03 17, 2021 00:26:15 上午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\a
+03 17, 2021 00:26:15 上午 tomcat.catalina.Context deploy
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\a has finished in 38 ms
+03 17, 2021 00:26:15 上午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\a has finished in 375 ms
+03 17, 2021 00:26:15 上午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\j2ee
+03 17, 2021 00:26:15 上午 tomcat.catalina.Context deploy
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\j2ee has finished in 19 ms
+03 17, 2021 00:26:15 上午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\j2ee has finished in 24 ms
+03 17, 2021 00:26:15 上午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\javaweb0
+03 17, 2021 00:26:15 上午 tomcat.catalina.Context deploy
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\javaweb0 has finished in 114 ms
+03 17, 2021 00:26:15 上午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\javaweb0 has finished in 118 ms
+03 17, 2021 00:26:15 上午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\ROOT
+03 17, 2021 00:26:15 上午 tomcat.catalina.Context deploy
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\ROOT has finished in 0 ms
+03 17, 2021 00:26:15 上午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\ROOT has finished in 6 ms
+03 17, 2021 00:26:15 上午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:/IDEA/Tomcat/b
+03 17, 2021 00:26:15 上午 tomcat.catalina.Context deploy
+INFO : Deployment of web application directory D:/IDEA/Tomcat/b has finished in 0 ms
+03 17, 2021 00:26:15 上午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:/IDEA/Tomcat/b has finished in 6 ms
+03 17, 2021 00:26:15 上午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/IDEA/javaweb/web
+03 17, 2021 00:26:15 上午 tomcat.catalina.Context deploy
+INFO : Deployment of web application directory d:/IDEA/javaweb/web has finished in 26 ms
+03 17, 2021 00:26:15 上午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/IDEA/javaweb/web has finished in 31 ms
+03 17, 2021 00:26:15 上午 tomcat.catalina.Server logJVM
+INFO : Server version:		Tomcat/1.0.1
+03 17, 2021 00:26:15 上午 tomcat.catalina.Server logJVM
+INFO : Server built:		2021-03-08 10:20:22
+03 17, 2021 00:26:15 上午 tomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+03 17, 2021 00:26:15 上午 tomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+03 17, 2021 00:26:15 上午 tomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+03 17, 2021 00:26:15 上午 tomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+03 17, 2021 00:26:15 上午 tomcat.catalina.Server logJVM
+INFO : Java Home:		D:\Java\jre
+03 17, 2021 00:26:15 上午 tomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_261-b12
+03 17, 2021 00:26:15 上午 tomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+03 17, 2021 00:26:15 上午 tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+03 17, 2021 00:26:15 上午 tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+03 17, 2021 00:26:15 上午 tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+03 17, 2021 00:26:15 上午 tomcat.catalina.Service init
+INFO : Initialization processed in 1 ms
+03 17, 2021 00:26:15 上午 tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+03 17, 2021 00:26:15 上午 tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+03 17, 2021 00:26:15 上午 tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+03 17, 2021 00:26:15 上午 tomcat.catalina.Server start
+INFO : Server startup in 13 ms
+03 17, 2021 00:27:04 上午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\javaweb1
+03 17, 2021 00:27:04 上午 tomcat.catalina.Context deploy
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\javaweb1 has finished in 20 ms
+03 17, 2021 00:27:04 上午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\javaweb1 has finished in 33 ms
+03 17, 2021 00:30:44 上午 tomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : tomcat.watcher.ContextFileChangeWatcher@5ca60622 检测到了Web应用下的重要文件变化 web.xml 
+03 17, 2021 00:30:44 上午 tomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has started
+03 17, 2021 00:30:44 上午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/IDEA/javaweb/web
+03 17, 2021 00:30:44 上午 tomcat.catalina.Context deploy
+INFO : Deployment of web application directory d:/IDEA/javaweb/web has finished in 87 ms
+03 17, 2021 00:30:44 上午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/IDEA/javaweb/web has finished in 89 ms
+03 17, 2021 00:30:44 上午 tomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has completed
+03 17, 2021 00:30:48 上午 tomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : tomcat.watcher.ContextFileChangeWatcher@ad6df27 检测到了Web应用下的重要文件变化 ContextListener.class 
+03 17, 2021 00:30:48 上午 tomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has started
+03 17, 2021 00:30:48 上午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/IDEA/javaweb/web
+03 17, 2021 00:30:48 上午 tomcat.catalina.Context deploy
+INFO : Deployment of web application directory d:/IDEA/javaweb/web has finished in 25 ms
+03 17, 2021 00:30:48 上午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/IDEA/javaweb/web has finished in 28 ms
+03 17, 2021 00:30:48 上午 tomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has completed
+03 17, 2021 00:35:25 上午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\a
+03 17, 2021 00:35:25 上午 tomcat.catalina.Context deploy
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\a has finished in 20 ms
+03 17, 2021 00:35:25 上午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\a has finished in 308 ms
+03 17, 2021 00:35:25 上午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\j2ee
+03 17, 2021 00:35:25 上午 tomcat.catalina.Context deploy
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\j2ee has finished in 9 ms
+03 17, 2021 00:35:25 上午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\j2ee has finished in 19 ms
+03 17, 2021 00:35:25 上午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\javaweb0
+03 17, 2021 00:35:25 上午 tomcat.catalina.Context deploy
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\javaweb0 has finished in 38 ms
+03 17, 2021 00:35:25 上午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\javaweb0 has finished in 46 ms
+03 17, 2021 00:35:25 上午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\javaweb1
+03 17, 2021 00:35:25 上午 tomcat.catalina.Context deploy
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\javaweb1 has finished in 83 ms
+03 17, 2021 00:35:25 上午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\javaweb1 has finished in 94 ms
+03 17, 2021 00:35:25 上午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\ROOT
+03 17, 2021 00:35:25 上午 tomcat.catalina.Context deploy
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\ROOT has finished in 1 ms
+03 17, 2021 00:35:25 上午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\ROOT has finished in 8 ms
+03 17, 2021 00:35:25 上午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:/IDEA/Tomcat/b
+03 17, 2021 00:35:25 上午 tomcat.catalina.Context deploy
+INFO : Deployment of web application directory D:/IDEA/Tomcat/b has finished in 0 ms
+03 17, 2021 00:35:25 上午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:/IDEA/Tomcat/b has finished in 17 ms
+03 17, 2021 00:35:25 上午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/IDEA/javaweb/web
+03 17, 2021 00:35:25 上午 tomcat.catalina.Context deploy
+INFO : Deployment of web application directory d:/IDEA/javaweb/web has finished in 17 ms
+03 17, 2021 00:35:25 上午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/IDEA/javaweb/web has finished in 36 ms
+03 17, 2021 00:35:25 上午 tomcat.catalina.Server logJVM
+INFO : Server version:		Tomcat/1.0.1
+03 17, 2021 00:35:25 上午 tomcat.catalina.Server logJVM
+INFO : Server built:		2021-03-08 10:20:22
+03 17, 2021 00:35:25 上午 tomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+03 17, 2021 00:35:25 上午 tomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+03 17, 2021 00:35:25 上午 tomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+03 17, 2021 00:35:25 上午 tomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+03 17, 2021 00:35:25 上午 tomcat.catalina.Server logJVM
+INFO : Java Home:		D:\Java\jre
+03 17, 2021 00:35:25 上午 tomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_261-b12
+03 17, 2021 00:35:25 上午 tomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+03 17, 2021 00:35:25 上午 tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+03 17, 2021 00:35:25 上午 tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+03 17, 2021 00:35:25 上午 tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+03 17, 2021 00:35:25 上午 tomcat.catalina.Service init
+INFO : Initialization processed in 2 ms
+03 17, 2021 00:35:25 上午 tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+03 17, 2021 00:35:25 上午 tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+03 17, 2021 00:35:25 上午 tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+03 17, 2021 00:35:25 上午 tomcat.catalina.Server start
+INFO : Server startup in 6 ms
+03 17, 2021 21:30:56 下午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\a
+03 17, 2021 21:30:56 下午 tomcat.catalina.Context deploy
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\a has finished in 374 ms
+03 17, 2021 21:30:57 下午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\a has finished in 1903 ms
+03 17, 2021 21:30:57 下午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\j2ee
+03 17, 2021 21:30:57 下午 tomcat.catalina.Context deploy
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\j2ee has finished in 19 ms
+03 17, 2021 21:30:57 下午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\j2ee has finished in 74 ms
+03 17, 2021 21:30:57 下午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\javaweb0
+03 17, 2021 21:30:57 下午 tomcat.catalina.Context deploy
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\javaweb0 has finished in 92 ms
+03 17, 2021 21:30:57 下午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\javaweb0 has finished in 123 ms
+03 17, 2021 21:30:57 下午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\javaweb1
+03 17, 2021 21:30:57 下午 tomcat.catalina.Context deploy
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\javaweb1 has finished in 102 ms
+03 17, 2021 21:30:57 下午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\javaweb1 has finished in 137 ms
+03 17, 2021 21:30:57 下午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\IDEA\Tomcat\webapps\ROOT
+03 17, 2021 21:30:57 下午 tomcat.catalina.Context deploy
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\ROOT has finished in 0 ms
+03 17, 2021 21:30:57 下午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\IDEA\Tomcat\webapps\ROOT has finished in 3 ms
+03 17, 2021 21:30:57 下午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory D:/IDEA/Tomcat/b
+03 17, 2021 21:30:57 下午 tomcat.catalina.Context deploy
+INFO : Deployment of web application directory D:/IDEA/Tomcat/b has finished in 0 ms
+03 17, 2021 21:30:57 下午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:/IDEA/Tomcat/b has finished in 4 ms
+03 17, 2021 21:30:57 下午 tomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/IDEA/javaweb/web
+03 17, 2021 21:30:57 下午 tomcat.catalina.Context deploy
+INFO : Deployment of web application directory d:/IDEA/javaweb/web has finished in 57 ms
+03 17, 2021 21:30:57 下午 tomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/IDEA/javaweb/web has finished in 154 ms
+03 17, 2021 21:30:57 下午 tomcat.catalina.Server logJVM
+INFO : Server version:		Tomcat/1.0.1
+03 17, 2021 21:30:57 下午 tomcat.catalina.Server logJVM
+INFO : Server built:		2021-03-08 10:20:22
+03 17, 2021 21:30:57 下午 tomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+03 17, 2021 21:30:57 下午 tomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+03 17, 2021 21:30:57 下午 tomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+03 17, 2021 21:30:57 下午 tomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+03 17, 2021 21:30:57 下午 tomcat.catalina.Server logJVM
+INFO : Java Home:		D:\Java\jre
+03 17, 2021 21:30:57 下午 tomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_261-b12
+03 17, 2021 21:30:57 下午 tomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+03 17, 2021 21:30:57 下午 tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+03 17, 2021 21:30:57 下午 tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+03 17, 2021 21:30:57 下午 tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+03 17, 2021 21:30:57 下午 tomcat.catalina.Service init
+INFO : Initialization processed in 1 ms
+03 17, 2021 21:30:57 下午 tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+03 17, 2021 21:30:57 下午 tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+03 17, 2021 21:30:57 下午 tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+03 17, 2021 21:30:57 下午 tomcat.catalina.Server start
+INFO : Server startup in 6 ms
